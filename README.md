@@ -1,5 +1,6 @@
-# Hello there, dear friends! 👋
-My name is Wojciech Rosiński. I am from Poland. I really enjoy programming, especially making the backend side of applications. I am constantly expanding my tech stack and practicing new skills. I recently started studies which will expand my knowlege in React, Node, JavaScript, HTML/CSS and also introduce me to a new framework - Angular. <br/>
+# Wojciech Rosiński
+Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really enjoy programming, especially making the backend side of applications. I am constantly expanding my tech stack and practicing new skills. I recently started studies which will help expanding my knowlege in React, Node, JavaScript, HTML/CSS and also introduce me to a new framework - Angular. <br/>
+<br/>
 **I am also open to an internship or first job.**
 <hr/>
 
