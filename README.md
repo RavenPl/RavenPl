@@ -31,7 +31,7 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 <h3 >Warriors</h3>
 
 <p>A little game created using JavaScript, TypeScript, Handlebars and Canvas with 2 types of game available: text only and arcade mode. </p> <br/>
-
+<img src="home.jpg" />
 <p>🔸 GitHub: https://github.com/RavenPl/warriors</p>
 <p>🔹 Demo: https://warriors.networkmanager.pl/warriors</p>
 <br/>
