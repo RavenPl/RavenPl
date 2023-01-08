@@ -3,7 +3,7 @@ My name is Wojciech Rosiński. I am from Poland. I really enjoy programming, esp
 **I am also open to an internship or first job.**
 <hr/>
 
-- 🌱 I’m currently learning Angular and developing in React and Nest.js
+- 🌱 I’m currently learning Angular and improving my skills in React and Nest.js
 - 📫 How to reach me: rosinski.wojciech@gmail.com
 <br/>
 
@@ -24,6 +24,20 @@ My name is Wojciech Rosiński. I am from Poland. I really enjoy programming, esp
 </p>
 <br/>
 
-## Projects
+## Examples of Work
+
+
+<h3 >Warriors</h3>
+
+<p>A little game created using JavaScript, TypeScript, Handlebars and Canvas with 2 types of game available: text only and arcade mode. </p> <br/>
+
+<p>🔸 GitHub: https://github.com/RavenPl/warriors</p>
+<p>🔹 Demo: https://warriors.networkmanager.pl/warriors</p>
+<br/>
+
+**Technologies used:**
+
+<p>:hammer:&nbsp HTML Canvas &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Express.js &nbsp|&nbsp MySQL&nbsp|&nbsp Skeleton <p>
+<hr/>
 
 
