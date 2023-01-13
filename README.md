@@ -46,7 +46,7 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 ## My library
 
 <p>Simple application which allows you to list your favourite books. Visually not perfect but it is a full-stack app - backend, frontend plus demo version put on working server.</p>
-<img src="home.jpg" />
+<img src="mainView.jpg" />
 <p> :large_orange_diamond: GitHub[BE]: https://github.com/RavenPl/MyLibrary-v3-BE</p>
 <p> :large_orange_diamond: GitHub[FE]: https://github.com/RavenPl/MyLibrary-v3-FE</p>
 <p> :large_blue_diamond: Demo: https://library.networkmanager.pl/books</p>
