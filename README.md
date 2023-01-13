@@ -29,8 +29,9 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 
 ## Examples of Work :briefcase:
 
+<br/>
 
-## Warriors
+## Warriors #1
 
 <p>A little game created using JavaScript, TypeScript, Handlebars and Canvas with 2 types of game available: text only and arcade mode. </p> <br/>
 <img src="home.jpg" />
@@ -41,9 +42,11 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 **Technologies used:**
 
 <p>:hammer:&nbsp HTML Canvas &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Express.js &nbsp|&nbsp Handlebars &nbsp|&nbsp MySQL&nbsp|&nbsp Skeleton <p>
-<hr/>
 
-## My library
+<hr/>
+<br/>
+
+## My library #2
 
 <p>Simple application which allows you to list your favourite books. Visually not perfect but it is a full-stack app - backend, frontend plus demo version put on working server.</p>
 <img src="mainView.jpg" />
