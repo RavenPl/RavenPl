@@ -30,7 +30,7 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 ## Examples of Work :briefcase:
 
 
-<h3 >Warriors</h3>
+## Warriors
 
 <p>A little game created using JavaScript, TypeScript, Handlebars and Canvas with 2 types of game available: text only and arcade mode. </p> <br/>
 <img src="home.jpg" />
@@ -43,4 +43,16 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 <p>:hammer:&nbsp HTML Canvas &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Express.js &nbsp|&nbsp Handlebars &nbsp|&nbsp MySQL&nbsp|&nbsp Skeleton <p>
 <hr/>
 
+## My library
 
+<p>Simple application which allows you to list your favourite books. Visually not perfect but it is a full-stack app - backend, frontend plus demo version put on working server.</p>
+<img src="home.jpg" />
+<p> :large_orange_diamond: GitHub[BE]: https://github.com/RavenPl/MyLibrary-v3-BE</p>
+<p> :large_orange_diamond: GitHub[FE]: https://github.com/RavenPl/MyLibrary-v3-FE</p>
+<p> :large_blue_diamond: Demo: https://library.networkmanager.pl/books</p>
+<br/>
+
+**Technologies used:**
+
+<p>:hammer:&nbsp HTML &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Express.js &nbsp|&nbsp React &nbsp|&nbsp MySQL&nbsp|&nbsp Skeleton <p>
+<hr/>
