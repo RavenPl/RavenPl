@@ -29,12 +29,14 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 
 ## Examples of Work :briefcase:
 
+<hr/>
 <br/>
 
 ## #2 Movie App
 
 <p>It is a small full-stack application that allows users to search and save their favorite movies, TV shows, or games. The application will utilize an external API to fetch data and provide accurate and up-to-date information. Users can easily search for titles, access detailed information, and save their preferences for future reference.</p>
 
+<img src="main_view.jpg" />
 <p> :large_orange_diamond: GitHub[BE]: https://github.com/RavenPl/movies-app-back.git</p>
 <p> :large_orange_diamond: GitHub[FE]: https://github.com/RavenPl/movies-app-front.git</p>
 <p> :large_blue_diamond: Demo: https://movies.raven-pl.usermd.net/movies</p>
@@ -42,7 +44,9 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 **Technologies used:**
 
 <p>:hammer:&nbsp HTML &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Express.js &nbsp|&nbsp React &nbsp|&nbsp MySQL&nbsp <p>
+  
 <hr/>
+<br/>
 
 ## #3 Warriors
 
