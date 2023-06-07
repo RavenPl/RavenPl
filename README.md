@@ -50,10 +50,10 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 
 ## #3 Warriors
 
-<p>A little game created using JavaScript, TypeScript, Handlebars and Canvas with 2 types of game available: text only and arcade mode. </p> <br/>
+<p>It is a game with two modes: arcade and text-based. The game allows players to create their own warrior, customize attributes, and engage in battles against other players. The application also features a Hall of Fame gallery to track the player with the highest number of victories. The game is written entirely in JavaScript, but the Canvas API is used in the arcade mode to create dynamic visuals and engaging gameplay. </p> <br/>
 <img src="home.jpg" />
 <p> :large_orange_diamond: GitHub: https://github.com/RavenPl/warriors</p>
-<p> :large_blue_diamond: Demo: https://warriors.networkmanager.pl/warriors</p>
+<p> :large_blue_diamond: Demo: https://warriors.raven-pl.usermd.net/warriors</p>
 <br/>
 
 **Technologies used:**
