@@ -30,8 +30,10 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 ## Examples of Work :briefcase:
 
 <br/>
+
 ## #2 Movie App
-<p>Simple application which allows you to list your favourite books. Visually not perfect but it is a full-stack app - backend, frontend plus demo version put on working server.</p>
+
+<p>It is a small full-stack application that allows users to search and save their favorite movies, TV shows, or games. The application will utilize an external API to fetch data and provide accurate and up-to-date information. Users can easily search for titles, access detailed information, and save their preferences for future reference.</p>
 
 <p> :large_orange_diamond: GitHub[BE]: https://github.com/RavenPl/movies-app-back.git</p>
 <p> :large_orange_diamond: GitHub[FE]: https://github.com/RavenPl/movies-app-front.git</p>
