@@ -30,8 +30,19 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 ## Examples of Work :briefcase:
 
 <br/>
+## #2 Movie App
+<p>Simple application which allows you to list your favourite books. Visually not perfect but it is a full-stack app - backend, frontend plus demo version put on working server.</p>
 
-## Warriors #1
+<p> :large_orange_diamond: GitHub[BE]: https://github.com/RavenPl/movies-app-back.git</p>
+<p> :large_orange_diamond: GitHub[FE]: https://github.com/RavenPl/movies-app-front.git</p>
+<p> :large_blue_diamond: Demo: https://movies.raven-pl.usermd.net/movies</p>
+
+**Technologies used:**
+
+<p>:hammer:&nbsp HTML &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Express.js &nbsp|&nbsp React &nbsp|&nbsp MySQL&nbsp <p>
+<hr/>
+
+## #3 Warriors
 
 <p>A little game created using JavaScript, TypeScript, Handlebars and Canvas with 2 types of game available: text only and arcade mode. </p> <br/>
 <img src="home.jpg" />
@@ -46,7 +57,7 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 <hr/>
 <br/>
 
-## My library #2
+## #4 My library 
 
 <p>Simple application which allows you to list your favourite books. Visually not perfect but it is a full-stack app - backend, frontend plus demo version put on working server.</p>
 <img src="mainView.jpg" />
