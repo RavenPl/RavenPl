@@ -39,6 +39,7 @@ MegaK HeadHunter is a project developed by participants of the MegaKurs, a Polis
 MegaK HeadHunter is an IT employment platform designed specifically for students who have completed the MegaKurs course. The platform enables these students to apply for their first jobs in the IT industry. Head hunters from different companies can browse through the students' CVs and schedule interviews with them, facilitating the hiring process.
 </p>
 
+<img src="headHunter.png" />
 <p> :large_orange_diamond: GitHub[BE]: https://github.com/Nieopodal/headhunter-back.git </p>
 <p> :large_orange_diamond: GitHub[FE]: https://github.com/Nieopodal/headhunter-front.git </p>
 <p> :large_blue_diamond: Demo: https://headhunter.mwyso.usermd.net/ </p>
