@@ -44,6 +44,7 @@ MegaK HeadHunter is an IT employment platform designed specifically for students
 <p> :large_orange_diamond: GitHub[FE]: https://github.com/Nieopodal/headhunter-front.git </p>
 <p> :large_blue_diamond: Demo: https://headhunter.mwyso.usermd.net/ </p>
 <p> :large_blue_diamond: Video: https://www.youtube.com/watch?v=CeIFVlNlzPw </p>
+<br/>
 
 **Technologies used:**
 
@@ -60,6 +61,7 @@ MegaK HeadHunter is an IT employment platform designed specifically for students
 <p> :large_orange_diamond: GitHub[BE]: https://github.com/RavenPl/movies-app-back.git</p>
 <p> :large_orange_diamond: GitHub[FE]: https://github.com/RavenPl/movies-app-front.git</p>
 <p> :large_blue_diamond: Demo: https://movies.raven-pl.usermd.net/movies</p>
+<br/>
 
 **Technologies used:**
 
