@@ -48,7 +48,7 @@ MegaK HeadHunter is an IT employment platform designed specifically for students
 
 **Technologies used:**
 
-<p>:hammer:&nbsp HTML &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Nest.js &nbsp|&nbsp React &nbsp|&nbsp Tailwind CSS &nbsp|&nbsp Nodemailer &nbsp|&nbsp MySQL &nbsp|&nbsp TypeORM &nbsp|&nbsp Passport &nbsp|&nbsp &nbsp|&nbsp and more... &nbsp <p>
+<p>:hammer:&nbsp HTML &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Nest.js &nbsp|&nbsp React &nbsp|&nbsp Tailwind CSS &nbsp|&nbsp Nodemailer &nbsp|&nbsp MySQL &nbsp|&nbsp TypeORM &nbsp|&nbsp Passport &nbsp|&nbsp and more... &nbsp <p>
   
 <hr/>
 <br/>
