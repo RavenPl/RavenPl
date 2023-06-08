@@ -32,6 +32,26 @@ Hello there, dear friends! 👋 My name is Wojciech. I am from Poland. I really 
 <hr/>
 <br/>
 
+## #1 MegaK HeadHunter
+
+<p>
+MegaK HeadHunter is a project developed by participants of the MegaKurs, a Polish web development course. It was created as a team effort following the agile/scrum methodology for the final project assignment.
+
+MegaK HeadHunter is an IT employment platform designed specifically for students who have completed the MegaKurs course. The platform enables these students to apply for their first jobs in the IT industry. Head hunters from different companies can browse through the students' CVs and schedule interviews with them, facilitating the hiring process.
+</p>
+
+<p> :large_orange_diamond: GitHub[BE]: https://github.com/Nieopodal/headhunter-back.git </p>
+<p> :large_orange_diamond: GitHub[FE]: https://github.com/Nieopodal/headhunter-front.git </p>
+<p> :large_blue_diamond: Demo: https://headhunter.mwyso.usermd.net/ </p>
+<p> :large_blue_diamond: Video: https://www.youtube.com/watch?v=CeIFVlNlzPw </p>
+
+**Technologies used:**
+
+<p>:hammer:&nbsp HTML &nbsp|&nbsp CSS &nbsp|&nbsp JavaScript &nbsp|&nbsp TypeScript &nbsp|&nbsp Node.js &nbsp|&nbsp Nest.js &nbsp|&nbsp React &nbsp|&nbsp MySQL &nbsp &nbsp|&nbsp Nodemailer &nbsp&nbsp|&nbsp TypeORM &nbsp&nbsp|&nbsp Passport &nbsp &nbsp|&nbsp Tailwind CSS &nbsp&nbsp|&nbsp and more... &nbsp <p>
+  
+<hr/>
+<br/>
+
 ## #2 Movie App
 
 <p>It is a small full-stack application that allows users to search and save their favorite movies, TV shows, or games. The application will utilize an external API to fetch data and provide accurate and up-to-date information. Users can easily search for titles, access detailed information, and save their preferences for future reference.</p>
