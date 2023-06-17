@@ -60,7 +60,7 @@ MegaK HeadHunter is an IT employment platform designed specifically for students
 <img src="main_view.jpg" />
 <p> :large_orange_diamond: GitHub[BE]: https://github.com/RavenPl/movies-app-back.git</p>
 <p> :large_orange_diamond: GitHub[FE]: https://github.com/RavenPl/movies-app-front.git</p>
-<p> :large_blue_diamond: Demo: https://movies.raven-pl.usermd.net/movies</p>
+<p> :large_blue_diamond: Demo: https://movies.raven-pl.usermd.net/</p>
 <br/>
 
 **Technologies used:**
